@@ -97,7 +97,7 @@ function App() {
                         <h1 className={cn("text-xl font-bold tracking-tight", rgbMode && "text-transparent bg-clip-text bg-gradient-to-r from-red-500 via-green-500 to-blue-500 animate-gradient-x")}>
                             KeyDeck
                         </h1>
-                        <p className={cn("text-xs", rgbMode ? "text-white/60" : "text-muted-foreground")}>Premium Keyboard Tester</p>
+                        <p className={cn("text-xs", rgbMode ? "text-white/60" : "text-muted-foreground")}>Keyboard Tester</p>
                     </div>
                 </div>
             </header>
